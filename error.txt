@@ -1,0 +1,1 @@
+_tkinter.TclError: cannot use geometry manager grid inside . which already has slaves managed by pack
